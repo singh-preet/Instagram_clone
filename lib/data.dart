@@ -5,6 +5,22 @@ List data = [
     "first_name": "Michael",
     "last_name": "Lawson",
     "avatar":
+    "https://i0.wp.com/www.hindishayaricollections.com/wp-content/uploads/2019/10/Cute-Girl-Dp-Images-Pictures-77.jpg"
+  },
+  {
+    "id": 7,
+    "email": "michael.lawson@reqres.in",
+    "first_name": "Michael",
+    "last_name": "Lawson",
+    "avatar":
+    "https://1.bp.blogspot.com/-ARrNSvN9EP0/XZcQEL-7KpI/AAAAAAAAC40/luL8oZRwIVoYlOiOeqLbBxVEVMbZuCIEwCNcBGAsYHQ/w680/attitude%2Bgirl%2Bcover%2Bpic.jpg"
+  },
+  {
+    "id": 7,
+    "email": "michael.lawson@reqres.in",
+    "first_name": "Michael",
+    "last_name": "Lawson",
+    "avatar":
         "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
   },
   {
