@@ -2,8 +2,8 @@ List data = [
   {
     "id": 7,
     "email": "michael.lawson@reqres.in",
-    "first_name": "Michael",
-    "last_name": "Lawson",
+    "first_name": "preet",
+    "last_name": "kharbanda",
     "avatar":
     "https://i0.wp.com/www.hindishayaricollections.com/wp-content/uploads/2019/10/Cute-Girl-Dp-Images-Pictures-77.jpg"
   },
