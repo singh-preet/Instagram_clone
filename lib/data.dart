@@ -10,8 +10,8 @@ List data = [
   {
     "id": 7,
     "email": "michael.lawson@reqres.in",
-    "first_name": "Michael",
-    "last_name": "Lawson",
+    "first_name": "Jaggu",
+    "last_name": "06",
     "avatar":
     "https://1.bp.blogspot.com/-ARrNSvN9EP0/XZcQEL-7KpI/AAAAAAAAC40/luL8oZRwIVoYlOiOeqLbBxVEVMbZuCIEwCNcBGAsYHQ/w680/attitude%2Bgirl%2Bcover%2Bpic.jpg"
   },
